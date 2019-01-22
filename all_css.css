@@ -51,7 +51,7 @@
 .dropbtn {
     background-color: #bb00bb;
     color: white;
-    padding: 16px;
+    padding: 16px 12px;
     font-size: 25px;
     border: none;
     cursor: pointer;
@@ -77,7 +77,4 @@
 .dropdown-content a:hover {background-color: #888888}
 .dropdown:hover .dropdown-content {
     display: block;
-}
-.dropdown:hover .dropbtn {
-    background-color: #440044;
 }
