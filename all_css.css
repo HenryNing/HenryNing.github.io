@@ -36,3 +36,7 @@
 .button_b:hover {
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
+.text_a{
+  color:#fff;
+  text-shadow:0px 0px 5px rgba(128,0,128,1),0px 0px 10px rgba(128,0,128,1),0px 0px 15px rgba(128,0,128,1);
+}
