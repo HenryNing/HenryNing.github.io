@@ -74,10 +74,10 @@
     text-decoration: none;
     display: block;
 }
-.dropdown-content a:hover {background-color: #eeeeee}
+.dropdown-content a:hover {background-color: #888888}
 .dropdown:hover .dropdown-content {
     display: block;
 }
 .dropdown:hover .dropbtn {
-    background-color: #cf00cf;
+    background-color: #440044;
 }
