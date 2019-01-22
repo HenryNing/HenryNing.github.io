@@ -52,7 +52,7 @@
     background-color: #bb00bb;
     color: white;
     padding: 16px;
-    font-size: 16px;
+    font-size: 25px;
     border: none;
     cursor: pointer;
 }
@@ -74,7 +74,7 @@
     text-decoration: none;
     display: block;
 }
-.dropdown-content a:hover {background-color: #ff00ff}
+.dropdown-content a:hover {background-color: #eeeeee}
 .dropdown:hover .dropdown-content {
     display: block;
 }
