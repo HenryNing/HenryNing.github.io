@@ -79,14 +79,16 @@
 .dropdown:hover .dropdown-content {
     display: block;
 }
-  text-shadow:0px 0px 5px rgba(128,128,128,1),0px 0px 10px rgba(128,128,128,1),0px 0px 15px rgba(128,128,128,1);
+.text_b {
+  color: #000000;
+  text-shadow: 0px 0px 5px rgba(128,128,128,1),0px 0px 10px rgba(128,128,128,1),0px 0px 15px rgba(128,128,128,1);
 }
 .div_a {
-  border-radius: 15px;
-  box-shadow: 5px 5px 9px 3px rgba(0,0,0,0.25);
+  border-radius: 10%;
+  box-shadow: 5px 5px 9px 5px rgba(0,0,0,0.25);
 }
 .div_a:hover {
   -webkit-transition-duration: 0.4s;
   transition-duration: 0.4s;
-  box-shadow: 8px 8px 15px 5px rgba(0,0,0,0.2);
+  box-shadow: 8px 8px 15px 8px rgba(0,0,0,0.2);
 }
