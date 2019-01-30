@@ -80,7 +80,7 @@
     display: block;
 }
 .text_b {
-  color: rgba(128,0,128,1);
+  color: #bb00bb;
   text-shadow: 0px 0px 8px rgba(128,128,128,1),0px 0px 16px rgba(128,128,128,1),0px 0px 24px rgba(128,128,128,1);
 }
 .div_a {
