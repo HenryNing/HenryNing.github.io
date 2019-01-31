@@ -75,6 +75,10 @@
 .dropdown:hover .dropdown-content {
     display: block;
 }
+.a_a {
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
 .text_b, .a_a:link, .a_a:visited {
   color: #bb00bb;
   text-shadow: 0px 0px 8px rgba(128,128,128,1),0px 0px 16px rgba(128,128,128,1),0px 0px 24px rgba(128,128,128,1);
