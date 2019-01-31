@@ -75,13 +75,13 @@
 .dropdown:hover .dropdown-content {
     display: block;
 }
-.text_a, .a_a:hover, .a_a:active {
-  color:#ffffff;
-  text-shadow:0px 0px 5px rgba(128,0,128,1),0px 0px 10px rgba(128,0,128,1),0px 0px 15px rgba(128,0,128,1);
-}
 .text_b, .a_a:link, .a_a:visited {
   color: #bb00bb;
   text-shadow: 0px 0px 8px rgba(128,128,128,1),0px 0px 16px rgba(128,128,128,1),0px 0px 24px rgba(128,128,128,1);
+}
+.text_a, .a_a:hover, .a_a:active {
+  color:#ffffff;
+  text-shadow:0px 0px 5px rgba(128,0,128,1),0px 0px 10px rgba(128,0,128,1),0px 0px 15px rgba(128,0,128,1);
 }
 .div_a {
   -webkit-transition-duration: 0.4s;
