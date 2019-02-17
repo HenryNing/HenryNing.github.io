@@ -1,5 +1,4 @@
-window.alert = alert;
-function alert(data, callback) {
+function _alert(data, callback) {
 	var alert_bg = document.createElement('div');
 	alert_box = document.createElement('div'),
 	alert_text = document.createElement('div'),
@@ -23,7 +22,8 @@ function alert(data, callback) {
 	}
 }
 function css(targetObj, cssObj) {
-	var str = targetObj.getAttribute("style") ? targetObj.getAttribute('style') : '';
+	var tg = targetObj.getAttribute("style");
+	var str = tg ? tg : '';
 	for (var i in cssObj)
 		str += i + ':' + cssObj[i] + ';';
 	targetObj.style.cssText = str;
