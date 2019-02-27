@@ -15,5 +15,5 @@ function css(trt,coj) {
 	var str=trt.getAttribute("style")?trt.getAttribute("style"):"";
 	for(var i in coj)
 		str+=i+":"+coj[i]+";";
-	targetObj.style.cssText=str;
+	trt.style.cssText=str;
 }
