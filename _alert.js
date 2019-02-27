@@ -1,7 +1,7 @@
 window.alert=alert;
 function alert(data) {
 	var a=document.createElement("div"),p=document.createElement("p"),btn=document.createElement("div"),textNode=document.createTextNode(data?data:""),btnText=document.createTextNode("确&nbsp;定");
-	css(a,{"position":"fixed","left":"0","right":"0","top":"20%","width":"100px","margin":"0 auto","background-color":"#f00","font-size":"20px","text-align":"center"});
+	css(a,{"position":"fixed","left":"0","right":"0","top":"20%","width":"100px","margin":"0 auto","background-color":"#f00","font-size":"20px","text-align":"center"}); 
 	css(btn,{"background":"blue"});
 	p.appendChild(textNode);
 	btn.appendChild(btnText);
