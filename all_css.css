@@ -147,9 +147,9 @@
     transition: all 0.4s;
 }
 .navbar .menu li a{
-    width: 22px;
-    height: 22px;
-    line-height: 22px;
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
     border-radius: 50%;
     position: absolute;
     font-size: 60%;
@@ -163,73 +163,73 @@
 }
 .navbar:hover .menu li:nth-child(1){
     transition-delay: 0.02s;
-    transform: rotate(85deg);
+    transform: rotate(-85deg);
 }
 .navbar:hover .menu li:nth-child(1) a{
     transition-delay: 0.04s;
-    transform: rotate(635deg);
+    transform: rotate(-635deg);
 }
 .navbar:hover .menu li:nth-child(2){
     transition-delay: 0.04s;
-    transform: rotate(125deg);
+    transform: rotate(-125deg);
 }
 .navbar:hover .menu li:nth-child(2) a{
     transition-delay: 0.08s;
-    transform: rotate(595deg);
+    transform: rotate(-595deg);
 }
 .navbar:hover .menu li:nth-child(3){
     transition-delay: 0.06s;
-    transform: rotate(165deg);
+    transform: rotate(-165deg);
 }
 .navbar:hover .menu li:nth-child(3) a{
     transition-delay: 0.12s;
-    transform: rotate(555deg);
+    transform: rotate(-555deg);
 }
 .navbar:hover .menu li:nth-child(4){
     transition-delay: 0.08s;
-    transform: rotate(205deg);
+    transform: rotate(-205deg);
 }
 .navbar:hover .menu li:nth-child(4) a{
     transition-delay: 0.16s;
-    transform: rotate(515deg);
+    transform: rotate(-515deg);
 }
 .navbar:hover .menu li:nth-child(5){
     transition-delay: 0.1s;
-    transform: rotate(245deg);
+    transform: rotate(-245deg);
 }
 .navbar:hover .menu li:nth-child(5) a{
     transition-delay: 0.2s;
-    transform: rotate(475deg);
+    transform: rotate(-475deg);
 }
 .navbar:hover .menu li:nth-child(6){
     transition-delay: 0.12s;
-    transform: rotate(285deg);
+    transform: rotate(-285deg);
 }
 .navbar:hover .menu li:nth-child(6) a{
     transition-delay: 0.24s;
-    transform: rotate(435deg);
+    transform: rotate(-435deg);
 }
 .navbar:hover .menu li:nth-child(7){
     transition-delay: 0.14s;
-    transform: rotate(325deg);
+    transform: rotate(-325deg);
 }
 .navbar:hover .menu li:nth-child(7) a{
     transition-delay: 0.28s;
-    transform: rotate(395deg);
+    transform: rotate(-395deg);
 }
 .navbar:hover .menu li:nth-child(8){
     transition-delay: 0.16s;
-    transform: rotate(365deg);
+    transform: rotate(-365deg);
 }
 .navbar:hover .menu li:nth-child(8) a{
     transition-delay: 0.32s;
-    transform: rotate(355deg);
+    transform: rotate(-355deg);
 }
 .navbar:hover .menu li:nth-child(9){
     transition-delay: 0.18s;
-    transform: rotate(405deg);
+    transform: rotate(-405deg);
 }
 .navbar:hover .menu li:nth-child(9) a{
     transition-delay: 0.36s;
-    transform: rotate(315deg);
+    transform: rotate(-315deg);
 }
