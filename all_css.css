@@ -148,12 +148,12 @@
     transition: all 0.4s;
 }
 .navbar .menu li a{
-    width: 45px;
-    height: 45px;
+    width: 90px;
+    height: 90px;
     line-height: 45px;
     border-radius: 50%;
     position: absolute;
-    font-size: 60%;
+    font-size: 12px;
     color: #b0b;
     transition: 0.4s;
     text-decoration: none;
